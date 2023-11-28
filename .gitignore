@@ -1,0 +1,10 @@
+# Ignore compiled bytecode
+*.class
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Eclipse files
+.project
+.classpath
+.settings/
